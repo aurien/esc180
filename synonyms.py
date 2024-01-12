@@ -1,6 +1,8 @@
 """
 From: Michael Guerzhoy
 By: Sarah Zhao and Christine Lee
+
+Note: Download text.txt in order to check for synonyms.
 """
 
 import math
